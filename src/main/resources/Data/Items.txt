@@ -1,0 +1,10 @@
+ID	NAME
+1	Apple (1 kg)
+2	Orange (1 kg)
+3	Pillow
+4	Napkins
+5	Hat
+6	Pineapple juice (2 l)
+7	Chicken breast (500 g)
+8	Eggs (10)
+9	Cup
